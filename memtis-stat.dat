@@ -1,0 +1,49 @@
+----- stat -----
+[[[[[ XSBench ]]]]]
+1:8 memtis-vanila 0
+1:8 memtis-split 0
+1:8 memtis-warm 0
+1:8 memtis-all 0
+
+[[[[[ graph500 ]]]]]
+1:8 memtis-vanila 0
+1:8 memtis-split 0
+1:8 memtis-warm 0
+1:8 memtis-all 0
+
+[[[[[ gapbs-pr ]]]]]
+1:8 memtis-vanila 0
+1:8 memtis-split 0
+1:8 memtis-warm 0
+1:8 memtis-all 0
+
+[[[[[ liblinear ]]]]]
+1:8 memtis-vanila 0
+1:8 memtis-split 0
+1:8 memtis-warm 0
+1:8 memtis-all 0
+
+[[[[[ silo ]]]]]
+1:8 memtis-vanila 0
+1:8 memtis-split 0
+1:8 memtis-warm 0
+1:8 memtis-all 0
+
+[[[[[ btree ]]]]]
+1:8 memtis-vanila 0
+1:8 memtis-split 0
+1:8 memtis-warm 0
+1:8 memtis-all 0
+
+[[[[[ speccpu-bwaves ]]]]]
+1:8 memtis-vanila 0
+1:8 memtis-split 0
+1:8 memtis-warm 0
+1:8 memtis-all 0
+
+[[[[[ speccpu-roms ]]]]]
+1:8 memtis-vanila 0
+1:8 memtis-split 0
+1:8 memtis-warm 0
+1:8 memtis-all 0
+

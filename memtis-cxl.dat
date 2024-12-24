@@ -1,0 +1,49 @@
+----- performance -----
+[[[[[ XSBench ]]]]]
+all-cxl 
+1:2 
+1:8 
+1:16 
+
+[[[[[ graph500 ]]]]]
+all-cxl 
+1:2 
+1:8 
+1:16 
+
+[[[[[ gapbs-pr ]]]]]
+all-cxl 
+1:2 
+1:8 
+1:16 
+
+[[[[[ liblinear ]]]]]
+all-cxl 
+1:2 
+1:8 
+1:16 
+
+[[[[[ silo ]]]]]
+all-cxl 
+1:2 
+1:8 
+1:16 
+
+[[[[[ btree ]]]]]
+all-cxl 
+1:2 
+1:8 
+1:16 
+
+[[[[[ speccpu-bwaves ]]]]]
+all-cxl 
+1:2 
+1:8 
+1:16 
+
+[[[[[ speccpu-roms ]]]]]
+all-cxl 
+1:2 
+1:8 
+1:16 
+

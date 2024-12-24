@@ -1,0 +1,7 @@
+anon 983040
+anon_thp 0
+inactive_anon 835584
+active_anon 24576
+workingset_refault_anon 0
+workingset_activate_anon 0
+workingset_restore_anon 0

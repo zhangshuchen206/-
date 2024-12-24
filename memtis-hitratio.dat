@@ -1,0 +1,25 @@
+----- hit ratio -----
+[[[[[ XSBench ]]]]]
+eHR(%):  | rHR-NS(%):  | rHR(%): 
+
+[[[[[ graph500 ]]]]]
+eHR(%):  | rHR-NS(%):  | rHR(%): 
+
+[[[[[ gapbs-pr ]]]]]
+eHR(%):  | rHR-NS(%):  | rHR(%): 
+
+[[[[[ liblinear ]]]]]
+eHR(%):  | rHR-NS(%):  | rHR(%): 
+
+[[[[[ silo ]]]]]
+eHR(%):  | rHR-NS(%):  | rHR(%): 
+
+[[[[[ btree ]]]]]
+eHR(%):  | rHR-NS(%):  | rHR(%): 
+
+[[[[[ speccpu-bwaves ]]]]]
+eHR(%):  | rHR-NS(%):  | rHR(%): 
+
+[[[[[ speccpu-roms ]]]]]
+eHR(%):  | rHR-NS(%):  | rHR(%): 
+

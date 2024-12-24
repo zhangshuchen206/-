@@ -1,0 +1,17 @@
+----- performance -----
+[[[[[ graph500-128GB ]]]]]
+all-nvm 
+memtis 
+
+[[[[[ graph500-192GB ]]]]]
+all-nvm 
+memtis 
+
+[[[[[ graph500-336GB ]]]]]
+all-nvm 
+memtis 
+
+[[[[[ graph500-690GB ]]]]]
+all-nvm 
+memtis 
+

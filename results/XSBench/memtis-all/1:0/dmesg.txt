@@ -1,0 +1,101 @@
+[32867.655847] pebs disable
+[32869.847611] overlayfs: missing 'lowerdir'
+[32871.891093] pebs_init
+[32872.602276] overlayfs: missing 'lowerdir'
+[32875.360087] overlayfs: missing 'lowerdir'
+[32877.505187] perf: interrupt took too long (19224 > 2500), lowering kernel.perf_event_max_sample_rate to 10250
+[32878.123937] overlayfs: missing 'lowerdir'
+[32880.854731] overlayfs: missing 'lowerdir'
+[32881.123235] perf: interrupt took too long (24065 > 24030), lowering kernel.perf_event_max_sample_rate to 8250
+[32881.234527] perf: interrupt took too long (30125 > 30081), lowering kernel.perf_event_max_sample_rate to 6500
+[32883.569783] overlayfs: missing 'lowerdir'
+[32886.375329] overlayfs: missing 'lowerdir'
+[32889.087345] overlayfs: missing 'lowerdir'
+[32889.955726] total_accesses: 105240 max_dram_hits: 39635 cur_hits: 105240 
+[32891.856689] overlayfs: missing 'lowerdir'
+[32894.587187] overlayfs: missing 'lowerdir'
+[32896.283728] total_accesses: 82203 max_dram_hits: 20200 cur_hits: 82203 
+[32897.300466] overlayfs: missing 'lowerdir'
+[32900.101132] overlayfs: missing 'lowerdir'
+[32902.835726] total_accesses: 70662 max_dram_hits: 10100 cur_hits: 70662 
+[32902.868597] overlayfs: missing 'lowerdir'
+[32905.862609] overlayfs: missing 'lowerdir'
+[32908.593184] overlayfs: missing 'lowerdir'
+[32910.203734] total_accesses: 64937 max_dram_hits: 5050 cur_hits: 64937 
+[32911.335678] overlayfs: missing 'lowerdir'
+[32914.435370] overlayfs: missing 'lowerdir'
+[32917.604457] overlayfs: missing 'lowerdir'
+[32920.203731] total_accesses: 51896 max_dram_hits: 2615 cur_hits: 51896 
+[32920.351198] overlayfs: missing 'lowerdir'
+[32923.594941] overlayfs: missing 'lowerdir'
+[32923.714960] perf: interrupt took too long (59320 > 37656), lowering kernel.perf_event_max_sample_rate to 3250
+[32926.351494] overlayfs: missing 'lowerdir'
+[32928.143725] total_accesses: 36738 max_dram_hits: 3188 cur_hits: 36738 
+[32929.369968] overlayfs: missing 'lowerdir'
+[32932.628732] overlayfs: missing 'lowerdir'
+[32935.783037] overlayfs: missing 'lowerdir'
+[32939.052277] overlayfs: missing 'lowerdir'
+[32941.839866] overlayfs: missing 'lowerdir'
+[32944.596204] overlayfs: missing 'lowerdir'
+[32947.337889] overlayfs: missing 'lowerdir'
+[32950.102531] overlayfs: missing 'lowerdir'
+[32952.854985] overlayfs: missing 'lowerdir'
+[32955.554374] overlayfs: missing 'lowerdir'
+[32956.711928] total_accesses: 1794161 max_dram_hits: 1129455 cur_hits: 1794161 
+[32958.731983] overlayfs: missing 'lowerdir'
+[32961.900004] overlayfs: missing 'lowerdir'
+[32965.271971] overlayfs: missing 'lowerdir'
+[32968.364375] overlayfs: missing 'lowerdir'
+[32971.118388] overlayfs: missing 'lowerdir'
+[32973.865547] overlayfs: missing 'lowerdir'
+[32976.588646] overlayfs: missing 'lowerdir'
+[32979.374586] overlayfs: missing 'lowerdir'
+[32982.052549] overlayfs: missing 'lowerdir'
+[32984.852904] overlayfs: missing 'lowerdir'
+[32987.589189] overlayfs: missing 'lowerdir'
+[32990.356616] overlayfs: missing 'lowerdir'
+[32993.101895] overlayfs: missing 'lowerdir'
+[32995.003836] total_accesses: 2897080 max_dram_hits: 2493476 cur_hits: 2897080 
+[32995.811764] overlayfs: missing 'lowerdir'
+[32998.798902] overlayfs: missing 'lowerdir'
+[33001.619304] overlayfs: missing 'lowerdir'
+[33004.809572] overlayfs: missing 'lowerdir'
+[33007.623085] overlayfs: missing 'lowerdir'
+[33010.360229] overlayfs: missing 'lowerdir'
+[33013.103284] overlayfs: missing 'lowerdir'
+[33015.874872] overlayfs: missing 'lowerdir'
+[33018.624281] overlayfs: missing 'lowerdir'
+[33021.380549] overlayfs: missing 'lowerdir'
+[33024.063445] overlayfs: missing 'lowerdir'
+[33026.859566] overlayfs: missing 'lowerdir'
+[33029.611690] overlayfs: missing 'lowerdir'
+[33032.353898] overlayfs: missing 'lowerdir'
+[33035.115837] overlayfs: missing 'lowerdir'
+[33037.858639] overlayfs: missing 'lowerdir'
+[33040.621130] overlayfs: missing 'lowerdir'
+[33042.043787] total_accesses: 3448540 max_dram_hits: 3243568 cur_hits: 3448540 
+[33043.317381] overlayfs: missing 'lowerdir'
+[33046.382147] overlayfs: missing 'lowerdir'
+[33049.366196] overlayfs: missing 'lowerdir'
+[33052.622266] overlayfs: missing 'lowerdir'
+[33055.306868] overlayfs: missing 'lowerdir'
+[33058.104012] overlayfs: missing 'lowerdir'
+[33060.878291] overlayfs: missing 'lowerdir'
+[33063.608981] overlayfs: missing 'lowerdir'
+[33066.353110] overlayfs: missing 'lowerdir'
+[33069.114739] overlayfs: missing 'lowerdir'
+[33071.870100] overlayfs: missing 'lowerdir'
+[33074.608919] overlayfs: missing 'lowerdir'
+[33077.366431] overlayfs: missing 'lowerdir'
+[33080.049396] overlayfs: missing 'lowerdir'
+[33082.875461] overlayfs: missing 'lowerdir'
+[33085.625918] overlayfs: missing 'lowerdir'
+[33088.360199] overlayfs: missing 'lowerdir'
+[33091.099293] overlayfs: missing 'lowerdir'
+[33093.865891] overlayfs: missing 'lowerdir'
+[33096.550786] overlayfs: missing 'lowerdir'
+[33097.159880] total_accesses: 3724270 max_dram_hits: 3621784 cur_hits: 3724270 
+[33099.367487] overlayfs: missing 'lowerdir'
+[33099.922135] nr_sampled: 8001899, nr_throttled: 0, nr_lost: 0
+[33099.923420] total runtime: 30215083533 ns, total cputime: 228024000 us, cpu usage: 132
+[33099.924880] pebs disable
